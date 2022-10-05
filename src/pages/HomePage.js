@@ -42,7 +42,7 @@ const HomePage = () => {
           className="icon whats2"
           onClick={() =>
             (window.location =
-              "https://api.whatsapp.com/send?text=Hola me podrias dar mas informacion&phone=+523331982114")
+              "https://api.whatsapp.com/send?text=Hola me podrías dar mas información&phone=+523331982114")
           }
           size={20}
           color="#f4f4f4"
